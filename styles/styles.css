@@ -28,7 +28,8 @@ img {
 }
 
 p {
-    padding: 0px;
+    padding: 0;
+    margin: 10px 0;
 }
 
 aside {
